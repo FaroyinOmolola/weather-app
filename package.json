@@ -1,7 +1,6 @@
 {
 	"name": "open-weather-app",
 	"version": "0.1.0",
-	"homepage": "http://FaroyinOmolola.github.io/open-weather-app",
 	"private": true,
 	"dependencies": {
 		"@emotion/react": "^11.7.0",
